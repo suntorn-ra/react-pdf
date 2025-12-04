@@ -172,8 +172,9 @@ Here are some sample projects to get started on React PDF quickly:
 2. [React (webpack) - TypeScript](https://github.com/react-pdf-dev/starter-rp-react-ts-webpack)
 3. [React (vite) - JavaScript](https://github.com/react-pdf-dev/starter-rp-react-js-vite)
 4. [React (vite) - TypeScript](https://github.com/react-pdf-dev/starter-rp-react-ts-vite)
-6. [Next.js - JavaScript](https://github.com/react-pdf-dev/starter-rp-next-js)
-7. [Next.js - TypeScript](https://github.com/react-pdf-dev/starter-rp-next-ts)
+5. [React (vite) - TypeScript - Turborepo](https://github.com/react-pdf-dev/starter-rp-react-vite-ts-turborepo)
+6. [Next.js - JavaScript (App Router)](https://github.com/react-pdf-dev/starter-rp-nextjs-app-router-js)
+7. [Next.js - TypeScript (App Router)](https://github.com/react-pdf-dev/starter-rp-nextjs-app-router-ts)
 8. [Next.js - TypeScript - Turborepo](https://github.com/react-pdf-dev/starter-rp-next-ts-turborepo)
 9. [Remix - JavaScript](https://github.com/react-pdf-dev/starter-rp-remix-js)
 10. [Remix - TypeScript](https://github.com/react-pdf-dev/starter-rp-remix-ts)
@@ -183,6 +184,10 @@ Here are some sample projects to get started on React PDF quickly:
 14. [Docusaurus - TypeScript](https://github.com/react-pdf-dev/starter-rp-docusaurus-ts)
 15. [Electron - JavaScript](https://github.com/react-pdf-dev/starter-rp-electron-js-vite)
 16. [Electron - TypeScript](https://github.com/react-pdf-dev/starter-rp-electron-ts-vite)
+17. [TanStack - JavaScript](https://github.com/react-pdf-dev/starter-rp-tanstack-router-js)
+18. [TanStack - TypeScript](https://github.com/react-pdf-dev/starter-rp-tanstack-router-ts)
+19. [React Router - JavaScript](https://github.com/react-pdf-dev/starter-rp-react-router-js)
+20. [React Router - TypeScript](https://github.com/react-pdf-dev/starter-rp-react-router-ts)
 
 
 # 📝 Changelog
@@ -198,7 +203,7 @@ We are more than happy to help you. If you have any questions, run into any erro
 
 React PDF is distributed under our proprietary license. Please refer to our [License page](https://www.react-pdf.dev/license-agreement?utm_source=github&utm_medium=referral) file for more details.
 
-If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [david@react-pdf.dev](mailto:david@react-pdf.dev).
+If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [https://www.react-pdf.dev/contact-us](https://www.react-pdf.dev/contact-us).
 
 
 # Acknowledgement
